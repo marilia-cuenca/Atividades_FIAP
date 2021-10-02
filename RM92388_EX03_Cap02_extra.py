@@ -1,7 +1,6 @@
-"""Hora de decidir! Os colaboradores da sua equipe foram sorteados para ganharem um console de última geração cada um por conta do bom desempenho que tiveram nos últimos projetos. Por uma questão de logística, porém, a empresa pede que todos os 5 membros da equipe recebam o mesmo aparelho.
-
+"""Hora de decidir! Os colaboradores da sua equipe foram sorteados para ganharem um console de última geração cada um por conta do bom
+desempenho que tiveram nos últimos projetos. Por uma questão de logística, porém, a empresa pede que todos os 5 membros da equipe recebam o mesmo aparelho.
 Crie um algoritmo onde o usuário possa digitar o voto de cada um dos 5 membros da equipe e, ao final, exiba qual foi o console escolhido e com quantos votos.
-
 As opções são: PLAYSTATION, XBOX e NINTENDO."""
 
 voto1 = int(input("Digite o 1º voto \n[1]-Playstation; [2]-XBOX; [3]-Nintendo: "))

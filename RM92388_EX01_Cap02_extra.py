@@ -1,4 +1,8 @@
-"""O projeto HealthTrack é o máximo e tem grande possibilidade de impactar positivamente a vida das pessoas. Mesmo que a solução final não utilize uma implementação em Python, podemos aproveitar a oportunidade para desenvolver o algoritmo que resolva um problema simples: verificar se os batimentos cardíacos por minuto se encontram na faixa adequada. Para isso, você deve solicitar que o usuário informe o seu número de BATIMENTOS POR MINUTO (BPM) e a IDADE. A partir disso o script deva verificar e exibir uma mensagem informando se os batimentos do usuário encontram-se DENTRO da faixa adequada, ACIMA da faixa adequada ou ABAIXO da faixa adequada)"""
+"""O projeto HealthTrack é o máximo e tem grande possibilidade de impactar positivamente a vida das pessoas.
+Mesmo que a solução final não utilize uma implementação em Python, podemos aproveitar a oportunidade para desenvolver o algoritmo que resolva
+um problema simples: verificar se os batimentos cardíacos por minuto se encontram na faixa adequada. Para isso, você deve solicitar que o usuário informe
+o seu número de BATIMENTOS POR MINUTO (BPM) e a IDADE. A partir disso o script deva verificar e exibir uma mensagem informando se os batimentos
+do usuário encontram-se DENTRO da faixa adequada, ACIMA da faixa adequada ou ABAIXO da faixa adequada)"""
 
 bpm = int(input("Informe os batimentos por minuto (bpm): "))
 idade = int(input("Informe a idade: "))

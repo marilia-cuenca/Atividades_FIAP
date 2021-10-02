@@ -1,7 +1,7 @@
 """O projeto HealthTrack é o máximo e tem grande possibilidade de impactar positivamente a vida das pessoas.
-Mesmo que a solução final não utilize uma implementação em Python, podemos aproveitar a oportunidade para desenvolver o algoritmo que resolva um problema simples:
-o cálculo do IMC sem distinção de sexo biológico. Por isso, você deve desenvolver um script que solicite o PESO e a ALTURA de uma pessoa. 
-A partir disso, o script deva calcular o IMC (PESO dividido pelo quadrado da ALTURA) e informar em quais das faixas a pessoa se encontra, de acordo com uma tabela."""
+Mesmo que a solução final não utilize uma implementação em Python, podemos aproveitar a oportunidade para desenvolver o algoritmo que resolva um problema
+simples: o cálculo do IMC sem distinção de sexo biológico. Por isso, você deve desenvolver um script que solicite o PESO e a ALTURA de uma pessoa. 
+A partir disso, o script deva calcular o IMC (PESO dividido pelo quadrado da ALTURA) e informar em quais das faixas a pessoa se encontra."""
 
 peso = float(input("Digite seu peso: "))
 altura = float(input("Digite sua altura: "))
